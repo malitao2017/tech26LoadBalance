@@ -1,0 +1,10 @@
+
+负载均衡 
+http://www.iteye.com/topic/675914
+http://qq1013712290.iteye.com/blog/2076260
+
+web.xml中增加
+<distributable/>
+
+
+
